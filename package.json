@@ -1,0 +1,18 @@
+{
+  "name": "dtt.js",
+  "version": "1.0.0",
+  "description": "Number Data Types for NodeJS",
+  "main": "index.js",
+  "keywords": [
+    "datatypes",
+    "int",
+    "float",
+    "uint",
+    "double",
+    "bigger",
+    "bigint",
+    "long"
+  ],
+  "author": "liy",
+  "license": "ISC"
+}
